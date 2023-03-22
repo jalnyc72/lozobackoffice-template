@@ -1,0 +1,30 @@
+{
+	"name": "backoffice-template",
+	"version": "1.0.0",
+	"authors": [
+		"gcontreras <gcontreras@digbang.com>"
+	],
+	"license": "proprietary",
+	"private": true,
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"dependencies": {
+		"animate.less": "guiwoda/animate#master",
+		"bootstrap": "3.1.0",
+		"bootstrap-chosen-less-js": "1.1.0",
+		"font-awesome": "4.0.3",
+		"jquery": "~1.10",
+		"jquery.ui": "1.10.4",
+		"jquery-toggles": "2.0.4",
+		"lato": "0.2.0",
+		"roboto-fontface": "0.1.4"
+	},
+	"resolutions": {
+		"bootstrap": "3.1.0"
+	}
+}

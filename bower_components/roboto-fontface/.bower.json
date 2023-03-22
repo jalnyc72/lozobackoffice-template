@@ -1,0 +1,21 @@
+{
+  "name": "roboto-fontface-bower",
+  "version": "0.1.4",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/choffmeister/roboto-fontface-bower",
+  "_release": "0.1.4",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.1.4",
+    "commit": "3c58634c3079ce6d983d866c4d3324209387b098"
+  },
+  "_source": "git://github.com/choffmeister/roboto-fontface-bower.git",
+  "_target": "0.1.4",
+  "_originalSource": "roboto-fontface"
+}

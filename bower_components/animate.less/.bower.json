@@ -1,0 +1,32 @@
+{
+  "name": "animate.less",
+  "main": [
+    "./demo/css/animate.css",
+    "./demo/js/jquery.js",
+    "./demo/less/bootstrap.less"
+  ],
+  "ignore": [
+    "git.php",
+    "codekit-config.json",
+    "demo/less",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "bootstrap": "2.3.2",
+    "fastclick": "master"
+  },
+  "devDependencies": {
+    "bootstrap": "2.3.2"
+  },
+  "homepage": "https://github.com/guiwoda/animate",
+  "_release": "1d1f01a88f",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "1d1f01a88f6a7c84836fe4e4aeea0a5c54356a46"
+  },
+  "_source": "git://github.com/guiwoda/animate.git",
+  "_target": "master",
+  "_originalSource": "guiwoda/animate",
+  "_direct": true
+}

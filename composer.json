@@ -1,0 +1,13 @@
+{
+    "name": "digbang/backoffice-template",
+    "description": "Digbang's backoffice template.",
+    "authors": [
+        {
+            "name": "gcontreras",
+            "email": "gcontreras@digbang.com"
+        }
+    ],
+    "require": {
+
+    }
+}
